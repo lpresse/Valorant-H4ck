@@ -1,3 +1,5 @@
+![Preview Image](photo_2024-10-30_04-09-32.jpg)
+
 ## Exalon PRO V2.2 🌫🏵
 
 ![image](https://github.com/ExalonDev/ValorantExalon/assets/162044236/cf87b631-6b37-460c-9187-40db603b0471)
